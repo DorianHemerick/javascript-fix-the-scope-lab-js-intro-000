@@ -12,7 +12,7 @@ function yourAnimal() {
 
   return animal
 }
-yourAnimal();
+yourAnimal('animal');
 
 
 
